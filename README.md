@@ -8,3 +8,4 @@
 6. Key Influencers
 7. Decomposition Tree
 8. Q &A
+# Power BI Dashboard :- Analyse all Graphs or Charts  in just one Click .
